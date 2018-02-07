@@ -1,0 +1,11 @@
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\TelosLpTracker.exe
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\TelosLpTracker.deps.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\TelosLpTracker.runtimeconfig.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\TelosLpTracker.runtimeconfig.dev.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Release\netcoreapp2.0\win10-x64\TelosLpTracker.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Release\netcoreapp2.0\win10-x64\TelosLpTracker.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Release\netcoreapp2.0\win10-x64\TelosLpTracker.csproj.CoreCompileInputs.cache
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Release\netcoreapp2.0\win10-x64\TelosLpTracker.AssemblyInfoInputs.cache
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Release\netcoreapp2.0\win10-x64\TelosLpTracker.AssemblyInfo.cs

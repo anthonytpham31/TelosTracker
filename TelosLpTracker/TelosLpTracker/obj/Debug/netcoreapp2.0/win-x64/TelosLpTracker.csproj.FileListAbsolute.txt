@@ -1,0 +1,13 @@
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.exe
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.deps.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.runtimeconfig.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.runtimeconfig.dev.json
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\bin\Debug\netcoreapp2.0\win-x64\TelosLpTracker.pdb
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Debug\netcoreapp2.0\win-x64\TelosLpTracker.csproj.CoreCompileInputs.cache
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Debug\netcoreapp2.0\win-x64\TelosLpTracker.AssemblyInfoInputs.cache
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Debug\netcoreapp2.0\win-x64\TelosLpTracker.AssemblyInfo.cs
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Debug\netcoreapp2.0\win-x64\TelosLpTracker.dll
+C:\Users\Todd\Coding Projects\JS\TelosTracker\TelosLpTracker\TelosLpTracker\obj\Debug\netcoreapp2.0\win-x64\TelosLpTracker.pdb
